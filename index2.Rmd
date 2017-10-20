@@ -1,0 +1,14 @@
+---
+title:"7:00 Midterm"
+output: html_document
+---
+#Ivona Plecevic
+##October 15,2017
+
+Here is some arithmetic:
+ 
+x<-8
+y<-10
+x^2/y
+
+
